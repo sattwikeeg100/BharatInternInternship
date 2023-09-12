@@ -5,5 +5,5 @@ This is a 1-month long internship program where I was assigned with some tasks :
 <b>House Price Prediction:</b> Machine Learning model to predict house price using linear regression only Jupyter notebook code.
 <h3>Task 2</h3>
 <b>Iris Flowers Classification:</b> Predict the different species of flowers on the length of there petals and sepals only Jupyter notebook code.   
-<br>
-<p>I used the linear regression technique for these two machine learning projects to predict the required values. </p>
+<br><br>
+<p>I used the linear regression technique for these two machine learning projects to predict the required values.This repo contains the two task projects and each task is associated with it's dataset. </p>
